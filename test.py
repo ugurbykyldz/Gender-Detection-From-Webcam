@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 model = load_model("MODEL.h5")
 
 #MODEL lOAD WEIGHTS 
-model.load_weights('model_weights.h5') 
+#model.load_weights('model_weights.h5') 
 
  
 #MODEL TEST
